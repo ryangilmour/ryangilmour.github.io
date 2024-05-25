@@ -84,27 +84,6 @@ M.Eng Electrical Engineering w/ Renewable Energy (1st)
  </tr>
 </table> -->
 
-<style>
-    .software-list {
-        display: grid;
-        grid-column-gap: .1em;
-        list-style-type: none;
-        padding: 0 1em;
-        grid-template-columns: repeat(4, 1fr);
-    }
-    </style>
-
-
-<style>
-    .skill-list {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-column-gap: .1em;
-        list-style-type: none;
-        padding: 0 1em;
-    }
-    </style>
-
 ## Employment
 ### GE Vernova - Solutions Specialist (Jan 2023 – May 2024)
 
@@ -172,10 +151,10 @@ An insight into what keeps me busy outside of work. Feel free to skip.
 
 **Hockey:** I play field hockey and have done for a number of years. I used to be a bit more serious about it, playing multiple times a week, but now I play in a mid-week league mostly for a good run around. 
 
-**Rock Climbing:** I caught the bouldering and climbing bug through university and now go to the bouldering gym a few times a week. I've done a limited amount of outdoor climbing, but absolutely love it. My first time going outside climbing at the sea cliff in Aberdour in Scotland on a perfect summers day.
+**Rock Climbing:** I caught the bouldering and climbing bug through university and now go to the bouldering gym a few times a week. I've done a limited amount of outdoor climbing, but absolutely love it. My first time going outside climbing was at the sea cliff in Aberdour in Scotland and 
 
 **Hiking and Camping:** I try to get on the hills as much as I can. I'll happily take type one fair weather walking or type two Scottish weather hiking.
 
-**Cooking:** When I have the time I love cooking. Roasted aubergine curry or banana bread are two highlights (versailte, I know).
+**Cooking:** When I have the time I love cooking. Roasted aubergine curry or banana bread are two highlights (versatile, I know).
 
 **Travelling:** I love travelling. I spent my exchange year during university in Singapore and managed to see a lot of South East Asia. I have some cognitive dissonance about travelling and climate change and I try to minimise my CO2 footprint when travelling. This means I've seen a lot of Scotland (where I am originally from) and New Zealand (where I currently live), and I'm learning to appreciate the slow lane. Previously going from Scotland to Europe has been made easier by having an employer on the brilliant [climate perks scheme](https://www.climateperks.com/).
