@@ -136,7 +136,7 @@ Working as part of a small team supporting community energy groups all the way f
 ## Volunteering 
 Volunteering is important to me. I find it rewarding to work with young people to teach them new skills, whether that is software/computing skills or outdoor skills. 
 
-**Code Club Aotearoa (Current):** I help running a weekly workshop which teaches young people (aged 8-12) basic programming using Scratch and micro-bits. 
+**Code Club Aotearoa (Current):** I help to run a weekly workshop which teaches young people (aged 8-12) basic programming using Scratch and micro-bits. 
 
 **President at Engineering For Change (2018):** Managing a student society promoting sustainable and humanitarian development locally and internationally. Projects included: Missing Maps “Mapathons”; building a wind turbine; building Solar PV panels; educational STEM workshops. 
 
@@ -151,10 +151,10 @@ An insight into what keeps me busy outside of work. Feel free to skip.
 
 **Hockey:** I play field hockey and have done for a number of years. I used to be a bit more serious about it, playing multiple times a week, but now I play in a mid-week league mostly for a good run around. 
 
-**Rock Climbing:** I caught the bouldering and climbing bug through university and now go to the bouldering gym a few times a week. I've done a limited amount of outdoor climbing, but absolutely love it. My first time going outside climbing was at the sea cliff in Aberdour in Scotland and 
+**Rock Climbing:** I caught the bouldering and climbing bug through university and now go to the bouldering gym a few times a week. I've done a limited amount of outdoor climbing, but absolutely love it. 
 
 **Hiking and Camping:** I try to get on the hills as much as I can. I'll happily take type one fair weather walking or type two Scottish weather hiking.
 
-**Cooking:** When I have the time I love cooking. Roasted aubergine curry or banana bread are two highlights (versatile, I know).
+**Cooking:** When I have the time I love cooking. Roasted aubergine curry or banana bread are two go to highlights.
 
 **Travelling:** I love travelling. I spent my exchange year during university in Singapore and managed to see a lot of South East Asia. I have some cognitive dissonance about travelling and climate change and I try to minimise my CO2 footprint when travelling. This means I've seen a lot of Scotland (where I am originally from) and New Zealand (where I currently live), and I'm learning to appreciate the slow lane. Previously going from Scotland to Europe has been made easier by having an employer on the brilliant [climate perks scheme](https://www.climateperks.com/).
