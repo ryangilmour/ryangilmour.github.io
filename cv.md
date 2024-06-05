@@ -6,9 +6,9 @@ permalink: /cv/
 
 # Ryan Gilmour CV
 ## Education
-#### The University of Edinburgh (2014 – 2019)
+### The University of Edinburgh (2014 – 2019)
 
-M.Eng Electrical Engineering w/ Renewable Energy (1st)
+M.Eng Electrical Engineering w/ Renewable Energy (Grade: 1st Class)
 
 ## Key Skills
 
@@ -23,24 +23,6 @@ M.Eng Electrical Engineering w/ Renewable Energy (1st)
 <li>📄 Verbal and written communication</li>  
 </ul>
 
-<!-- <table border="0">
- <tr>
-    <td>Strong understanding of energy systems</td>
-    <td>Power systems analysis and distribution planning </td>
- </tr>
-  <tr>
-    <td>Local energy system simulation and analysis</td>
-    <td>Python development and unit testing</td>
- </tr>
-  <tr>
-    <td>Verbal and written communication</td>
-    <td>Time-series simulations using numerical methods</td>
- </tr>
-  <tr>
-    <td>Database interactions using SQL and ORMs</td>
-    <td>Agile software development</td>
- </tr>
-</table> -->
 
 ## Software Experience
 
@@ -56,33 +38,6 @@ M.Eng Electrical Engineering w/ Renewable Energy (1st)
   
 </ul>
 
-
-<!-- <table border="0">
- <tr>
-    <td>Modelling Software</td>
-    <td>GridLAB-D; HELICS; PowerWorld; MATLAB</td>
- </tr>
-  <tr>
-    <td>Python</td>
-    <td>numpy, requests, pytest, hypothesis, sklearn</td>
- </tr>
-  <tr>
-    <td>Containerisation</td>
-    <td>Docker, Podman, Kubernetes (RKE2)</td>
- </tr>
-  <tr>
-    <td>Databases</td>
-    <td>SQL, PostgreSQL, TimescaleDB, psql</td>
- </tr>
- <tr>
-    <td>Development Tools</td>
-    <td>Linux & Windows, Git, CI/CD Pipelines, JIRA</td>
- </tr>
-  <tr>
-    <td>APIs</td>
-    <td>RESTful APIs, Kafka</td>
- </tr>
-</table> -->
 
 ## Employment
 ### GE Vernova - Solutions Specialist (Jan 2023 – May 2024)
@@ -136,15 +91,19 @@ Working as part of a small team supporting community energy groups all the way f
 ## Volunteering 
 Volunteering is important to me. I find it rewarding to work with young people to teach them new skills, whether that is software/computing skills or outdoor skills. 
 
-**Code Club Aotearoa (Current):** I help to run a weekly workshop which teaches young people (aged 8-12) basic programming using Scratch and micro-bits. 
+**Code Club Aotearoa (2024 - Present):** I help to run a weekly workshop which teaches young people (aged 8-12) basic programming using Scratch and micro:bits. See [my blog here]({{ site.baseurl }}/2024/06/5/code-club.html) to find out more. 
 
-**President at Engineering For Change (2018):** Managing a student society promoting sustainable and humanitarian development locally and internationally. Projects included: Missing Maps “Mapathons”; building a wind turbine; building Solar PV panels; educational STEM workshops. 
+**President at Engineering For Change (2018):** Managing a student society promoting sustainable and humanitarian development locally and internationally. 
+Notable projects included: 
+- [Missing Maps “Mapathons”](https://www.missingmaps.org/)
+- [Building a small scale wind turbine](https://www.facebook.com/windsofchange.ed/)
+- [Building DIY Solar Panels](https://www.engineeringforchange.org/news/diy-solar-panel-step-step-guide/)
+- [Teaching educational STEM workshops]({{ site.baseurl }}/2019/08/10/building-teachers.html)
 
 
-**Scouts (2011-2014; 2018)** I have volunteered over the course of a few years with the Scouts, working across the Beavers, Cubs and Scouts sections. I was a Scout myself and hope to become a leader again down the line. 
+**Scouts (2011-2014; 2018)** I have volunteered over a number of years with the Scouts, working across the Beavers, Cubs and Scouts sections. I was a Scout myself and hope to become a leader again down the line.
 
-**Camp America (2015):** Volunteering as part of a team of 6 to teach young people outdoor skills (e.g. open fire cooking, survival skills & most importantly campfire songs)
-
+**Camp America (2015):** I volunteered for a summer at a URJ camp working as part of a team of 6 to teach young people outdoor skills (e.g. open fire cooking, survival skills & most importantly campfire songs)
 
 ## Hobbies
 An insight into what keeps me busy outside of work. Feel free to skip. 
@@ -153,7 +112,7 @@ An insight into what keeps me busy outside of work. Feel free to skip.
 
 **Rock Climbing:** I caught the bouldering and climbing bug through university and now go to the bouldering gym a few times a week. I've done a limited amount of outdoor climbing, but absolutely love it. 
 
-**Hiking and Camping:** I try to get on the hills as much as I can. I'll happily take type one fair weather walking or type two Scottish weather hiking.
+**Hiking and Camping:** I try to get on the hills as much as I can. I'll happily take 'type one' fair weather walking or 'type two' Scottish weather hiking.
 
 **Cooking:** When I have the time I love cooking. Roasted aubergine curry or banana bread are two go to highlights.
 
