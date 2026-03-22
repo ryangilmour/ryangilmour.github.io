@@ -93,7 +93,7 @@ Despite the grade, this felt the second hardest pitch for me (after the first). 
 
 ### Tyrolean back to the mainland
 
-We abseiled back to the escape bolts and set up a tyrolean traverse to get back to the mainland. Some rusted malleons did not inspire confidence but were considered good enough. Gavin went first out into the unknown, then I followed. Crossing back past the Totem pole was pretty epic and once you are suspended in the air at that height you somewhat acclimatise. A final few meters of hauling the body back to safety and I made it. Rob was last to cross and after a bit more set up to make the rope retrievable, we all made it safely back. 
+We abseiled back to the escape bolts and set up a tyrolean traverse to get back to the mainland. Some rusted maillons did not inspire confidence but were considered good enough. Gavin went first out into the unknown, then I followed. Crossing back past the Totem pole was pretty epic and once you are suspended in the air at that height you somewhat acclimatise. A final few meters of hauling the body back to safety and I made it. Rob was last to cross and after a bit more set up to make the rope retrievable, we all made it safely back. 
 
 ![rob-tyrolean]({{ site.baseurl }}/assets/img/tasm-candle-tyrolean-rob.jpg)
 *Rob coming across on the Tyrolean traverse, passing the famous Totem Pole*
