@@ -21,7 +21,7 @@ It was dark as we set off but around 15 mins in we could walk without torch ligh
 
 ### Time to commit
 
-![candlestick-view]({{ site.baseurl }}/assets/img/tasm-candle-candlestick-view.jpg)
+![candlestick-view]({{ site.baseurl }}/assets/img/tasm-candle-stick.jpg)
 *A view of the candlestick*
 
 We arrived at the viewpoint to get a close-up view of our challenge. The Totem pole (a world famous climb) looking small and skinny in comparison to what we were going up. A scramble down a bit from the viewpoint a quick gear sort and we were on our way. A couple of steps here got us more and more committed: the abseil down, then the swim across. Rob swam across with ease in rather fair conditions. From here, our first Tyrolean traverse of the day, one that, when compared with the afternoon traverse was comparitavely low stakes.
@@ -40,8 +40,8 @@ Up a dark wet crack<br>*
 
 Holy hecker. Rest was sparse on this one. I had stuck on my puffer at the bottom as it was cold in the shade and made the poor decision to keep it on for the climb. The start was pump-ey and took some focus on wet feet as I tried by best to bridge and avoid too many hand jams as I knew I wasn't competent with them. By the time I saw Gavin on belay at the top of the first pitch, some choice words were coming out amongst huffs and puffs. I was trying hard not to fall here as I knew this was (in theory) the hardest climbing of the day and was within my abilities. I was delighted to hop up the final move and join Gavin - a bit cooked. Rob gave us some groans on his way up to let us know he was having fun, but it was never in doubt. 
 
-![pitch-one]({{ site.baseurl }}/assets/img/pitch-one.jpg)
-*"He huffed and he puffed and he, signed the eviction notice." - Three Little Pigs, Shrek 2*
+![pitch-one]({{ site.baseurl }}/assets/img/huffed.jpg)
+*"He huffed and he puffed and he, signed the eviction notice." - Three Little Pigs, Shrek*
 
 ### Pitch two - Rob on lead
 
@@ -68,9 +68,9 @@ Top out the pitch into the sun<br>
 I think this must be type-one fun<br>*
 
 This pitch was an adventure and required, as the poem suggests, being consumed by a crack. This was fiddly with gear hanging off the harness and a rope being tailed. Squirming through the barely wide enough crack with loose rock underfoot was not wholly pleasant. Being re-born into sunshine on the other side of the crack was a relief. 
-
+<!-- 
 ![darkness-consumes]({{ site.baseurl }}/assets/img/tasm-candle-crack.jpg)
-*Darkness consumes Gavin*
+*Darkness consumes Gavin* -->
 
 ### Intermission - Thank Christ Ledge
 
@@ -88,20 +88,20 @@ All that remained was a rope magic trick<br>*
 
 Despite the grade, this felt the second hardest pitch for me (after the first). Perhaps the cumulative mental and physical fatigue, but the sun was also heating the rock a fair amount. My foot slipped once, but I clung on and avoided falling. I managed to get some foot jams in and climb like a real boy after the slip. I refocused and was soon at the top. Once we all finished the pitch we did the short scramble to the summit and took a victory selfie. 
 
-![summit-selfie]({{ site.baseurl }}/assets/img/tasm-candle-summit-selfie.jpg)
-*Summit selfie*
+<!-- ![summit-selfie]({{ site.baseurl }}/assets/img/tasm-candle-summit-selfie.jpg)
+*Summit selfie* -->
 
 ### Tyrolean back to the mainland
 
 We abseiled back to the escape bolts and set up a tyrolean traverse to get back to the mainland. Some rusted malleons did not inspire confidence but were considered good enough. Gavin went first out into the unknown, then I followed. Crossing back past the Totem pole was pretty epic and once you are suspended in the air at that height you somewhat acclimitize. A final few meters of hauling the body back to safety and I made it. Rob was last to cross and after a bit more set up to make the rope retrievable, we all made it safely back. 
 
-![rob-tyrolean]({{ site.baseurl }}/assets/img/tasm-candle-rob-tyrolean.jpg)
+![rob-tyrolean]({{ site.baseurl }}/assets/img/tasm-candle-tyrolean-rob.jpg)
 *Rob coming across on the Tyrolean traverse, passing the famous Totem Pole*
 
 Celebratory bananas and stale hot crossed buns were enjoyed on the mainland amongst a smattering of fist bumps. The rest of the day and walk back would be relatively trivial. 
-
+<!-- 
 ![viewpoint-pics]({{ site.baseurl }}/assets/img/tasm-candle-viewpoint-pics.jpg)
-*Start (L) and end (R) of the day from the view point*
+*Start (L) and end (R) of the day from the view point* -->
 
 ### That's a wrap 
 
