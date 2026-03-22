@@ -40,7 +40,7 @@ Up a dark wet crack<br>*
 
 Holy hecker. Rest was sparse on this one. I had stuck on my puffer at the bottom as it was cold in the shade and made the poor decision to keep it on for the climb. The start was pump-ey and took some focus on wet feet as I tried by best to bridge and avoid too many hand jams as I knew I wasn't competent with them. By the time I saw Gavin on belay at the top of the first pitch, some choice words were coming out amongst huffs and puffs. I was trying hard not to fall here as I knew this was (in theory) the hardest climbing of the day and was within my abilities. I was delighted to hop up the final move and join Gavin - a bit cooked. Rob gave us some groans on his way up to let us know he was having fun, but it was never in doubt. 
 
-![pitch-one]({{ site.baseurl }}/assets/img/huffed.jpg)
+![pitch-one]({{ site.baseurl }}/assets/img/tasm-candle-huffed.jpg)
 *"He huffed and he puffed and he, signed the eviction notice." - Three Little Pigs, Shrek*
 
 ### Pitch two - Rob on lead
@@ -68,9 +68,9 @@ Top out the pitch into the sun<br>
 I think this must be type-one fun<br>*
 
 This pitch was an adventure and required, as the poem suggests, being consumed by a crack. This was fiddly with gear hanging off the harness and a rope being tailed. Squirming through the barely wide enough crack with loose rock underfoot was not wholly pleasant. Being re-born into sunshine on the other side of the crack was a relief. 
-<!-- 
-![darkness-consumes]({{ site.baseurl }}/assets/img/tasm-candle-crack.jpg)
-*Darkness consumes Gavin* -->
+
+![darkness-consumes]({{ site.baseurl }}/assets/img/tasm-candle-darkness.jpg)
+*Me immedietly prior to being consumed by the crack*
 
 ### Intermission - Thank Christ Ledge
 
@@ -88,8 +88,8 @@ All that remained was a rope magic trick<br>*
 
 Despite the grade, this felt the second hardest pitch for me (after the first). Perhaps the cumulative mental and physical fatigue, but the sun was also heating the rock a fair amount. My foot slipped once, but I clung on and avoided falling. I managed to get some foot jams in and climb like a real boy after the slip. I refocused and was soon at the top. Once we all finished the pitch we did the short scramble to the summit and took a victory selfie. 
 
-<!-- ![summit-selfie]({{ site.baseurl }}/assets/img/tasm-candle-summit-selfie.jpg)
-*Summit selfie* -->
+![summit-selfie]({{ site.baseurl }}/assets/img/tasm-candle-sea-stack-2.jpg)
+*Summit selfie for sea stack number two (for me)*
 
 ### Tyrolean back to the mainland
 
@@ -99,9 +99,9 @@ We abseiled back to the escape bolts and set up a tyrolean traverse to get back 
 *Rob coming across on the Tyrolean traverse, passing the famous Totem Pole*
 
 Celebratory bananas and stale hot crossed buns were enjoyed on the mainland amongst a smattering of fist bumps. The rest of the day and walk back would be relatively trivial. 
-<!-- 
-![viewpoint-pics]({{ site.baseurl }}/assets/img/tasm-candle-viewpoint-pics.jpg)
-*Start (L) and end (R) of the day from the view point* -->
+
+![viewpoint-pics]({{ site.baseurl }}/assets/img/tasm-candle-before-after.jpg)
+*Start (top) and end (bottom) of the day from the view point*
 
 ### That's a wrap 
 
