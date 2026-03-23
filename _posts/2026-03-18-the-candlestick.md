@@ -12,7 +12,7 @@ For the big day, the prep started the night before. Rob had crafted some noodles
 
 ### Alarm Sounds
 
-The alarm sounds at 5 am. Gavin had a fight with his sleeping mat at ~1 am next to me in the tent and I thought that was wake up time, but the body was not happy about that. Thankfully, another 4 hours were availabl, and the 5 am wake-up wasn't too painful. It was a day for doing. Breakfast at the car was double portions of granola and fresh raspberries knowing that lunch was just bars and snacks. We set off at 6 am. 
+The alarm sounds at 5 am. Gavin had a fight with his sleeping mat at ~1 am next to me in the tent and I thought that was wake up time, but the body was not happy about that. Thankfully, another 4 hours were available, and the 5 am wake-up wasn't too painful. It was a day for doing. Breakfast at the car was double portions of granola and fresh raspberries knowing that lunch was just bars and snacks. We set off at 6 am. 
 
 ![thumbs-up]({{ site.baseurl }}/assets/img/tasm-candle-thumbs-up.jpg)
 *Double thumbs up departure - the only real way to pose for a photo. Gavin missed the memo.*
