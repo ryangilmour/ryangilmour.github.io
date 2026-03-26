@@ -40,7 +40,7 @@ Up a dark, wet crack<br>*
 
 Holy hecker. Rest was sparse on this one. I had stuck on my puffer at the bottom as it was cold in the shade and made the poor decision to keep it on for the climb. The start was pump-ey and took some focus on wet feet as I tried my best to bridge and avoid too many hand jams as I knew I wasn't competent with them. By the time I saw Gavin on belay at the top of the first pitch, some choice words were coming out amongst huffs and puffs. I was trying hard not to fall here as I knew this was (in theory) the hardest climbing of the day and was within my abilities. I was delighted to hop up the final move and join Gavin - a bit cooked. Rob gave us some groans on his way up to let us know he was having fun, but it was never in doubt. 
 
-![pitch-one]({{ site.baseurl }}/assets/img/tasm-candle-huffed.jpg)
+![pitch-one]({{ site.baseurl }}/assets/img/tasm-candle-huffed.jpg)<br>
 *"He huffed, and he puffed, and he signed the eviction notice." - Three Little Pigs, Shrek*
 
 ### Pitch two - Rob on lead
