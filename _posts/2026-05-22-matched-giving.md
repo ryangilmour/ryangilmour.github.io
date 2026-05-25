@@ -58,14 +58,7 @@ Thank you for responding to me and providing donations that can support changing
 
 Cost effectiveness of the donations is a central part of effective giving. Here is an article showing [that together we are very likely to be saving lives](https://www.givewell.org/how-much-does-it-cost-to-save-a-life). 
 
-<div style="display: flex; justify-content: center; align-items: center; height: 40vh;">
-<iframe 
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vScDlZLoUzXNbVGcaHGHeQrj1DDevDjoeNND9kiOHO28r5loVuWPYd_FIPyRo9Gpz8QOkLYoxd5zIAJ/pubhtml?gid=1467201393&amp;single=true&amp;widget=true&amp;headers=false"
-  style="width: 55%; height: 250px; border: none; border-radius: 4px;"
-  loading="lazy">
-</iframe>
-</div>
-
+Want to see how we are doing? **[Have a look at the total raised here](https://docs.google.com/spreadsheets/d/e/2PACX-1vScDlZLoUzXNbVGcaHGHeQrj1DDevDjoeNND9kiOHO28r5loVuWPYd_FIPyRo9Gpz8QOkLYoxd5zIAJ/pubhtml?gid=1467201393&amp;single=true&amp;widget=true&amp;headers=false)**.
 
 ### FAQs
 - **When is this going on?**
