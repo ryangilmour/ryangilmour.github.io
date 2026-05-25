@@ -48,7 +48,10 @@ _NOTE: These donations are tax deducible and setting that up in IRD is very simp
 ## Step 2 - Let me know you've donated
 > _So that I can match you_
 
-This is an anonymous Google form, no log in needed. Please just fill it out the once. 
+This is an anonymous Google form, no log in needed. Please just fill it out the once. Ultimately this process is anonymous for ease and to avoid people having to share details. 
+That said, if you have made a donation and want to let me know directly, I would personally find that inspiring and motivating, but no pressure. 
+
+If the embedded form is annoying, you can also fill it out [here](https://docs.google.com/forms/d/e/1FAIpQLScTwrJ677usD4dP67E7OBqTvEto7FlnRrHz3-9wIUBFu-DilA/viewform).
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScTwrJ677usD4dP67E7OBqTvEto7FlnRrHz3-9wIUBFu-DilA/viewform?embedded=true" width="640" height="706" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
