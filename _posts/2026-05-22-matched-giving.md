@@ -42,6 +42,8 @@ A bit more on this in the "What has inspired this?" FAQ, if interesting.
 3. Pick your amount. 
    - If you check 'I want to set up recurring donations through my bank' and sign up for a monthly donation, I will match you twice.
      - e.g., if you donate \$500, my matching amount will be \$1000.
+4. Click 'Submit'
+   - From here, you need to make a bank transfer to the account details provided.
 
 _NOTE: These donations are tax deducible and setting that up in IRD is very simple, and is explained well [here](https://effectivealtruism.nz/tax-claimback)._
 
@@ -84,7 +86,7 @@ Want to see how we are doing? **[Have a look at the total raised here](https://d
      - Tractably solvable
 - **What has inspired this?**
    - Applying engineering to improve the lives of those in poverty was a common thread through university & my early career.  
-   - A few months ago I read "Moral Ambition" by Rutger Bregman whilst on holiday in Bali and was surrounded by vast inequality, which hit a nerve.
+   - A few months ago I read "Moral Ambition" by Rutger Bregman whilst on holiday in Bali and was surrounded by significant inequality, which hit a nerve.
    - More recently I have been reading about the moral philosophy of [Peter Singer](https://www.thelifeyoucansave.org/peter-singer/) and [William MacAskill](https://time.com/6204627/effective-altruism-longtermism-william-macaskill-interview/) and have been reading their books "Doing Good Better" and "The Life You Can Save".
    - It's well over time I put my reading into practice. 
 - **What's next?** 
