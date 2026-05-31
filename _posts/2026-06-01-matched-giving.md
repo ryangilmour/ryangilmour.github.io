@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I'll Match What You Give
-date: 2026-05-22
+date: 2026-06-01
 ---
 
 > I'm planning a small 'matched giving' process to encourage people to give to effective charities improving the lives of those in extreme poverty.
