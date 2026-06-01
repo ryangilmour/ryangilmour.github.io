@@ -90,7 +90,7 @@ We packed up in the interim, as the **mega** pancake sat atop the fire.
 I tentatively took it off, as the top came into a solid form. Success... A mega pancake to feed our travels back to home base.
 
 ![big-pancake]({{ site.baseurl }}/assets/img/packhorse/big-pancake.jpg){: style="max-width: 100%; width: 600px; height: auto; display: block; margin: 0 auto;" }
-_A cake, in a pan, with sous-chef Logan_
+_A cake, in a pan, with sous-chef Logan._
 
 ### Home time
 We split up into smaller groups for the walk back, some heading early, others doing a bit more exploring of the hills.
