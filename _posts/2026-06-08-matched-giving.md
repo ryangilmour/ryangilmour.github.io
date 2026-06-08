@@ -33,5 +33,30 @@ If we get to the final target of \$8000 NZD of giving by the end of June, it wil
 
 And finally, someone who can explain the arguments for why we ought to give to those in extreme poverty much better than I, Peter Singer. 
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/Diuv3XZQXyc" title="Peter Singer: The why and how of effective altruism" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<style>
+.youtube-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+}
+.youtube-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
+<div class="youtube-container">
+  <iframe 
+    src="https://www.youtube.com/embed/Diuv3XZQXyc" 
+    title="Peter Singer: The why and how of effective altruism"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</div>
 _Peter Singer's TED talk on effective altruism._
