@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 1 Update - Matched Giving
+title: Matched Giving - Week 1 Update
 date: 2026-06-08
 ---
 

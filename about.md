@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is my personal website for hosting my (work in progress) [blog](index.md) and [my CV](cv.md). 
+This is my personal website for hosting my [blog](index.md) and [my CV](cv.md). 
 
 ### Contact
 Email: [ryangilmour97@gmail.com](mailto:ryangilmour97@gmail.com)
