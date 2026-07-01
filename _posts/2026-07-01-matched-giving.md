@@ -57,7 +57,7 @@ _A 2-minute video on how Vitamin A supplementation can positively improve lives.
 
 My first thoughts after this month are ones of positivity. The amount I was matching was met and then exceeded, just by speaking to friends. Rationalizing what contributions from a single month of fundraising can do is inspiring. 
 
-I am very grateful of friends who has supported these efforts. Managing to get 18 donors contributing such a significant amount (on average 230 NZD) is really amazing!
+I am very grateful of friends who have supported these efforts. Managing to get 18 donors contributing such a significant amount (on average 230 NZD) is really amazing!
 
 #### Beginning Conversations
 
