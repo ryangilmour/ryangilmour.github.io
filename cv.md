@@ -29,7 +29,7 @@ Developing an energy insights platform used by eight New Zealand distribution ne
 - Designing and implementing APIs to support distributed generation planning use cases.
 - Acting as the key power systems engineering resource for technical design questions.
 - Mentoring colleagues to develop design, communication and software development skills. 
-- Presenting at key industry conferences including on how to Productionise Machine Learning. 
+- Presenting at key industry conferences including on how to productionise Machine Learning. 
 
 ### GE Vernova - Solutions Specialist (Jan 2023 – May 2024)
 Delivered highly available DERMS grid management software to utilities internationally as part of the Services Delivery team.
